@@ -1,7 +1,7 @@
 # TIC TAC TOE - client / server game
 
 It is a Java game that takes place on the server and lets ypu save and load the game.
-Program was creating in IntelliJ IDEA Ultimate Edition.
+Program was created in IntelliJ IDEA Ultimate Edition.
 
 ## How to run?
 
